@@ -1,1 +1,1 @@
-/api            http://127.0.0.1
+/api            http://metadata.google.internal/computeMetadata/v1/instance/hostname
